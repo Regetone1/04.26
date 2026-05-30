@@ -4,12 +4,3 @@ __pycache__/
 .venv/
 venv/
 
-# Итоговые результаты лабораторной работы не выгружаются в GitHub
-results/*.json
-results/*.md
-docs/*.docx
-reports/
-
-# Локальные копии исследуемых проектов
-vendor/
-tensorflow/
